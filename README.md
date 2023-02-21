@@ -3,6 +3,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimyalt&repo=NASA_API_TESTs)](https://github.com/dimyalt/NASA_API_TESTs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimyalt&repo=demoqa_com)](https://github.com/dimyalt/demoqa_com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimyalt&repo=Sprint_8)](https://github.com/dimyalt/Sprint_8)
 <!--
 **dimyalt/dimyalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
