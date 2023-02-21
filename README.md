@@ -1,8 +1,7 @@
 <h1 align="center">Hi there👋, I'm Dmitriy</h1>
 <h3 align="center">I am studying test automation in JAVA and want to become a quality control specialist</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimyalt&repo=Sprint_8)](https://github.com/dimyalt/Diplom_3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimyalt&repo=Sprint_8)](https://github.com/dimyalt/Diplom_2)
+
 <!--
 **dimyalt/dimyalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
