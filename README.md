@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Dmitriy</h1>
-<h3 align="center">I am studying test automation in JAVA and want to become a quality control specialist</h3>
+<h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
+<h3 align="center">Я изучаю автоматизацию тестирования на JAVA и хочу стать специалистом по контролю качества.</h3>
 
 
 <!--
